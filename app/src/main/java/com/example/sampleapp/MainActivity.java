@@ -123,11 +123,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG, "onRestart");
     }
 
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        Log.e(TAG, "onDestroy");
-    }
 
 
     public void displayToast() {
