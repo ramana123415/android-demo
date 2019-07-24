@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SampleAPP</string>
+
+
+    <string name="mobile">Enter Mobile No</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="hint_mobile">Please Enter 10 digits no</string>
+    <string name="hint_password">Password must be 8 char</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="welcome">Welcome to Login Screen</string>
+    <string name="welcom_registere">Welcome to Register Screen</string>
+
+</resources>
